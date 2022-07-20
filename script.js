@@ -27,7 +27,7 @@ let mountainsConfigurations = [
 		segments: 256,
 		perlin: 0.06,
 		roughness: 0.5,
-		splashHeight: 10,
+		splashHeight: 5,
 		mountainsHeight: 50,
 		bias: 0,
 		filtered: 5,
